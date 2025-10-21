@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Excel to SQLite Converter
 
 Excel到SQLite转换工具，支持批量转换多个Excel文件。
@@ -29,3 +30,6 @@ Excel到SQLite转换工具，支持批量转换多个Excel文件。
 ```bash
 pip install -r requirements.txt
 ```
+=======
+# excel_to_sqlite
+>>>>>>> 1569d424f0448270caa89de1cc1a1c2fc79742be
